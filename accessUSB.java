@@ -29,7 +29,7 @@ public class accessUSB{
 
 		
 				
-		if(user.equals("yuto") && uPass.equals("abascalesgay")) {
+		if(user.equals("yuto") && uPass.equals("123456")) {
 			
 			try {
 				dirToOpen = new File("E:\\encrypted");
