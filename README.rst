@@ -1,3 +1,3 @@
 #########################################
-My Personal Scripts to improve my workflow
+Personal Scripts to improve my workflow
 #########################################
